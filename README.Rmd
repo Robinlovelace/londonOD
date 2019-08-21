@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of londonOD is to showcase new OD data for London.
+The goal of londonOD is to showcase new OD data for London, uploaded in August 2019 to http://crowding.data.tfl.gov.uk/
 
 This is a work in progress repo to get started.
 
